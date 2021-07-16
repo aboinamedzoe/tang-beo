@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho tớ nghen,dù gì tớ cũng khum đọc được đâu nên đừng ngại <3',
     reply: 'Hmm cũng gọi là cute đới <33333333',
     mess: 'Hehe tớ biết mà 🥰. Hubby của cậu mà lại',
-    messDesc: 'Nhớ đừng quên kèo giữa chúng ta nhée.Chúc cậu có mụt buổi tối zui zẻeee',
+    messDesc: 'Nhớ đừng quên kèo giữa chúng ta nhé.Chúc cậu có mụt buổi tối zui zẻeee',
     btnAccept: 'Dạaaa <3' ,
 }
     
