@@ -11,5 +11,6 @@ const CONFIG = {
     reply: 'Hmm cũng gọi là cute đới <33333333',
     mess: 'Hehe tớ biết mà 🥰. Hubby của cậu mà lại 😘😘',
     messDesc: 'Nhớ đừng quên kèo giữa chúng ta nghennn.',
-    btnAccept: 'Dạaaa <3'
+    btnAccept: 'Dạaaa <3' ,
+}
     
